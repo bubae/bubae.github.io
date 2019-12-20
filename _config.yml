@@ -1,5 +1,5 @@
 # Site Settings
-remote_theme: jekyll-theme-simple-texture
+remote_theme: yizeng/jekyll-theme-simple-texture
 
 encoding: UTF-8
 exclude: ["*.gem", "*.gemspec", "Gemfile", "Gemfile.lock", "node_modules", "Rakefile", "starter-kit", "vendor"]

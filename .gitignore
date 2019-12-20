@@ -1,0 +1,16 @@
+*.py[cod]
+
+
+*.so
+
+bin/
+build/
+
+*.ipynb_checkpoints/*
+*.ipynb
+
+*.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+__pycache__
+__pycache__/

@@ -5,3 +5,4 @@ permalink: /about/
 background: '/img/bg-about.jpg'
 ---
 
+Test
